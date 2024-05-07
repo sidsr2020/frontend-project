@@ -22,7 +22,7 @@ This is a React-based web application that serves as a candidate application pla
 1. Clone the repository:
 
 ```
-git clone https://github.com/sidsr2020-dev/workday.git
+git clone https://github.com/jaikrishnaverma-dev/workday.git
 ```
 
 2. Navigate to the project directory:
